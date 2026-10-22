@@ -20,6 +20,8 @@ nav .logo {
     border-radius: 50%;
 }
 .logo a{
+    color: azure;
+    font-size: 2rem;
     text-decoration: none;
 }
 ul {
